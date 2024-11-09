@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armaan singh</h1>
 <h3 align="center">Engineer from India</h3>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-singh-6319a2209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Armaan_singh23) 
 
